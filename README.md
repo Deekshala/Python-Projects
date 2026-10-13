@@ -37,6 +37,3 @@ This repository contains a collection of beginner-friendly Python projects creat
 - Improve logical thinking and problem-solving.
 - Gain hands-on experience by developing small projects.
 - Prepare for entry-level IT opportunities through practical coding experience.
-
-This repository showcases my Python learning journey and my commitment to continuously improving my programming skills through practical projects.
-
